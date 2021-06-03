@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proposal to the bank of England, and the banks now setting up. With some few considerations about goldsmiths notes.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28447</idno><idno type="EEBO-CITATION">99885568</idno>
+  <idno type="VID">185332</idno>
+  <idno type="EEBO-PROQUEST">2240888706</idno>
+  
+            <idno type="STC">Wing P3715</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.10[8]</idno>
+            <idno type="STC">ESTC R224656</idno>
+            <idno type="PROQUEST">ocm99885568</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885568e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28447)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185332)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C1:2[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proposal to the bank of England, and the banks now setting up. With some few considerations about goldsmiths notes.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Bank of England --  Early works to 1800.</term>
+               <term type="topical_term">Banks and banking --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:185332:1"/>
+            <pb n="1" facs="tcp:185332:1"/>
+            <head>A PROPOSAL TO THE BANK of England, And the BANKS now Setting up.</head>
+            <head type="sub">With some Few Considerations about GOLDSMITHS Notes.</head>
+            <p>THE Stronger and Clearer the Credit of any Bank is, the more Thriving and Profita<g ref="char:EOLhyphen"/>ble it will be to it self, and it is so as it renders the Trust put in, or given, to them most safe and secure: And although no Security on Earth can be infallible, yet that Bank of Credit which is best bottom'd, and makes the Terms of its Credit most free of all Hazards and Scruples to the Creditors, will have the most Credit, and consequently the most Profit; this is a Position few will Dispute.</p>
+            <p>And therefore if the Proposal made here be pursuant to such an end, it's to be hoped it will easily be complied with; and when the Considerations following are well weighed, it's not much doubted, but that the Banks or Goldsmiths, who can stand on their own Bottom, independent on others, will see Cause so to do: It's but one Short Proposition, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>That all Notes, whether of Banks, or Goldsmiths, that are payable on Demand, and put into a Bank, or Goldsmiths Hands to receive, shall be received or returned in Twenty Four Hours after, or lye at the Hazard of the Bank, or Goldsmith that receives them.</hi>
+            </p>
+            <p>And although the Equity and Justice of such a Proposition, be enough to recommend it to your Practice, as what follows will Evince, yet your Interest also is not, as is humbly con<g ref="char:EOLhyphen"/>ceived, inconsistent with it; for that Bottom that can stand of it self, most free from depend<g ref="char:EOLhyphen"/>ing on others, gives the best Demonstration of its own Sufficiency.</p>
+            <p>He that considers with what Assiduity and Industry the Goldsmiths, Bankers of <hi>Lombard<g ref="char:EOLhyphen"/>street, &amp;c.</hi> have laboured to affix the Losses and Hazards of such Notes on the Merchant, who intrust, or pay them into their Hands, and exempt themselves from all Hazards in Trusting one another, may be lead to see, that although it's a great Stain and Slur they put upon the Credit of their own Notes, by their Disputes and Law-suits hereby, yet they look upon that as a lesser Mischief to themselves, than that of taking one another's Notes at their own Hazard.</p>
+            <p>If a Merchant in receiving his Debts, Collects a Number o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Goldsmiths Notes, suppose Nineteen Hundred Pound Notes, and he hath one for the like Sum of as Eminent a Merchant as any in the City, all on Demand, he carries these to his Goldsmith, who will give him a Note for Two Thousand Pounds on Demand, and in the Margent write thus,
+<table>
+                  <row>
+                     <cell>1900 <hi>l.</hi> Cash.</cell>
+                  </row>
+                  <row>
+                     <cell>100 Merchant's Name.</cell>
+                  </row>
+                  <row>
+                     <cell role="total">2000</cell>
+                  </row>
+               </table> implying the Merchant's Note, must be made good, if not received; and as any Body would think, thus Expressing Goldsmiths Notes as Cash, entering them so in their Cash-book, and the Merchant's Note into a Bill-book, take them as Money, (and are liable, and frequently do, to pay that Money the next Hour, or Moment after they so take them) and yet upon the in<g ref="char:EOLhyphen"/>solvency of a Goldsmith, any of them were due from, they demand such Money of the Mer<g ref="char:EOLhyphen"/>chant notwithstanding.</p>
+            <p>And if they be in the Right, then the Merchant in the Case before stated, supposing the Nineteen Notes were on so many several Goldsmiths, was bound for, and run the Hazard of Twenty at the same time, him in whose Hands he left or paid them for the whole 1900 <hi>l.</hi> and if it be good there, there is Nineteen more he is Bound and Security for, whereas possi<g ref="char:EOLhyphen"/>bly, if he were asked to be Bound for either of them in a Bond for 50 <hi>l.</hi> he would refuse to do it</p>
+            <pb n="2" facs="tcp:185332:2"/>
+            <p> And yet they frequently receive Notes from Persons they know not, and give one of their own, payable to that Person, or any other Stranger or Bearer on demand, and will <hi>(and then must)</hi> pay it to any that brings it the next Hour, whether they have received the Notes or no: Some Goldsmiths Notes they will refuse frequently, but never scruple or question the Person that pays them, whom they have much more reason to do than the Goldsmiths who drew them, and on whom they are, if the Person who brings them be liable to make them good.</p>
+            <p>An Instance somewhat like this you have last Term, in a Tryal betwixt Mr. <hi>Lamb</hi> the Goldsmith, and Mr. <hi>Nutt,</hi> about a Note of <hi>Tassell</hi>'s, made payable to Mr. <hi>Boult,</hi> or Bearer: It was proved in Court, that <hi>Lamb</hi> threatned to Sue Mr. <hi>Hatzell,</hi> as supposing he had left it with his Man; and his Man said, He would Swear it was <hi>Hatzell;</hi> and yet upon Inquiry, found it was <hi>Nutt</hi> left it; and he was the Man Sued.</p>
+            <p>If the Persons who thus delivers Notes in Payment, be liable to make them good, then here is an Effectual Security, that every Bank, or Goldsmith, hath, for all Notes, all Banks, and Goldsmiths, and is such a Foundation, as all manner of Frauds may be Built upon it: They may not only Cement and Strengthen one another with such a Credit, and bear with, and forbear, and receive Interest one of another, support a Breaking or Tottering Friend; but it's possible that Two or Three Persons may agree, the one to give out Notes to the ut<g ref="char:EOLhyphen"/>most of his Credit; (and it's very well known what Credit hath been given, to very slender Foundations;) and the other two retain such a Man's Notes in their Hands, until very consi<g ref="char:EOLhyphen"/>derable Sums grows due, and give the other notice of it, who may retire to <hi>White-friers, Mint,</hi> &amp;c. in such a Case there may be a very Considerable Dividend made betwixt the Three, if the Persons who paid them be liable to make them good.</p>
+            <p>I have more Respect and Charity for the Goldsmiths of <hi>London,</hi> than to believe any such thing was ever yet practised by any of them; and put the Case only as possible to be, and although but possible, no Wise Men will put it to the Hazard; for although the present Goldsmiths would Scorn and Loath such a Practice, as is verily believed, yet as there is no Community, but either hath, or may have, Evil Men croud in amongst them, so while such a thing is but barely possible, it ought to be prevented. For,</p>
+            <p>Those Persons that thus Intrust or Pay Notes into Goldsmiths Hands, most, if not all, do it without the least prospect of Advantage, further than by taking it out again, as their Oc<g ref="char:EOLhyphen"/>casions do call for it; and they not only hereby give an Opportunity and Means to them, of making Profit of their Money, but becomes Ingaged, that they may so do, without Hazard to themselves from any other Goldsmiths whatsoever; and is a Security, not only for that one, into whose Hands they are deposited, but for every Individual who first gave them out; and a few Months Trade, to many Traders, will thus involve them, as Bound for they know not who, how many, how much, nor how long; and while he is securely Dreaming of an Estate he hath, a run upon the Goldsmiths, as we have had many, will make them run also.</p>
+            <p>If it be Objected, <hi>That a Bank or Goldsmith may have so many Notes on each other, as cannot be received in Twenty Four Hours, and why should they run the Hazard then?</hi>
+            </p>
+            <p>It's Answered, either he that Intrusts them, or they who are Intrusted, must, while they are unreceived; and is it not more reasonable, that he who makes the Profit, should run the Hazard, than he who proposes none, but gives the Opportunity of Advantage? Besides they may refuse any Note they like not, as before is said they frequently have done, and reserve in their Hands unreceived such as are indubitable; for some such there are, or they are in a bad Case that Trust them. There is none, Objects, but all Forreign Bills must be received in that very Day they fall Due; and there may as many of them come in one Day as Gold<g ref="char:EOLhyphen"/>smiths Notes; and if there be a Necessity for receiving Bills, where so many are Bound for making them Good, why should the delay be made on Notes, where but one is Bound, as the Payer?</p>
+            <p>But not to inlarge further, where it's presumed enough is suggested to perswade you to a Compliance, where your own interest will induce you, upon reflecting, that either you must free the Persons from such Contingencies who Intrust you, or give them leave, who consi<g ref="char:EOLhyphen"/>der their Danger, to keep out o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, by not Intrusting you.</p>
+            <p>Although the Justice of the Nation in these Cases hath, and I doubt not but will protect the Persons pleaded for herein, yet Law-Disputes are Vexatious and Chargeable, and none that Loves their Peace, but will indeavour to avoid them. And all Bankers, and Goldsmiths, Notifying Publickly the Terms on which they will Accept such Notes, will End these Disputes.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:185332:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
